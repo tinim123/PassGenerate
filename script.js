@@ -1,7 +1,7 @@
 //önce oluşturulan şifreleri sayar
 let count=1;
 //Slider default değer
-document.getElementById("length").innerHTML = "Uzunluk: 12";
+document.getElementById("length").innerHTML = "Uzunluk: ";
 //slider uzunluk - hareket
 document.getElementById("slider").oninput = function(){
 
